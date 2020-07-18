@@ -1,0 +1,52 @@
+body{
+	font-family: 'Domine', serif;
+	color: #fff;
+    font-size: 16px;
+    background-color: #1ABC9C  ;	
+}
+#header-nav {
+	background-color: #D0ECE7; 
+}
+.navbar-brand span{ /*Company's name*/
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+/*main-content*/
+#menu-items h2 {
+	text-align: center;
+	text-transform: uppercase;
+	margin: 15px;
+	font-size: 1.5em;
+}
+#menu-items h2{
+	text-align: center;
+}
+.food-item-title{
+	background-color: #1743EC;
+	padding: 10px;
+}
+.food-item-details{
+	text-align: justify;
+	font-size: 0.8em;
+	margin-bottom: 10px;
+
+}
+#return-link {
+	padding-top: 15px;
+	margin:0;
+	text-align: left;
+}
+.nav-link{
+	text-align: center;
+}
+#navbarSupportedContent{
+	display: block;
+	overflow: visible;
+}
